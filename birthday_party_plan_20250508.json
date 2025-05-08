@@ -1,0 +1,284 @@
+{
+  "basic_info": {
+    "name": "N",
+    "age": "47",
+    "interests": "plants",
+    "favorite_colors": "",
+    "favorite_themes": ""
+  },
+  "party_details": {
+    "date": "",
+    "start_time": "12:00",
+    "end_time": "15:00",
+    "venue": "",
+    "theme": "",
+    "guests_expected": 0
+  },
+  "guest_list": [
+    {
+      "name": "",
+      "contact": "",
+      "rsvp_status": "",
+      "notes": ""
+    },
+    {
+      "name": "",
+      "contact": "",
+      "rsvp_status": "",
+      "notes": ""
+    },
+    {
+      "name": "",
+      "contact": "",
+      "rsvp_status": "",
+      "notes": ""
+    },
+    {
+      "name": "",
+      "contact": "",
+      "rsvp_status": "",
+      "notes": ""
+    },
+    {
+      "name": "",
+      "contact": "",
+      "rsvp_status": "",
+      "notes": ""
+    }
+  ],
+  "budget": {
+    "categories": [
+      {
+        "name": "Venue",
+        "estimated_cost": 0.0,
+        "actual_cost": 0.0,
+        "notes": ""
+      },
+      {
+        "name": "Food",
+        "estimated_cost": 0.0,
+        "actual_cost": 0.0,
+        "notes": ""
+      },
+      {
+        "name": "Cake",
+        "estimated_cost": 0.0,
+        "actual_cost": 0.0,
+        "notes": ""
+      },
+      {
+        "name": "Drinks",
+        "estimated_cost": 0.0,
+        "actual_cost": 0.0,
+        "notes": ""
+      },
+      {
+        "name": "Decorations",
+        "estimated_cost": 0.0,
+        "actual_cost": 0.0,
+        "notes": ""
+      },
+      {
+        "name": "Entertainment",
+        "estimated_cost": 0.0,
+        "actual_cost": 0.0,
+        "notes": ""
+      },
+      {
+        "name": "Party Favors",
+        "estimated_cost": 0.0,
+        "actual_cost": 0.0,
+        "notes": ""
+      },
+      {
+        "name": "Invitations",
+        "estimated_cost": 0.0,
+        "actual_cost": 0.0,
+        "notes": ""
+      },
+      {
+        "name": "Other",
+        "estimated_cost": 0.0,
+        "actual_cost": 0.0,
+        "notes": ""
+      }
+    ],
+    "total_estimated": 0.0,
+    "total_actual": 0.0
+  },
+  "menu_plan": {
+    "main_dishes": [
+      "",
+      "",
+      ""
+    ],
+    "side_dishes": [
+      "",
+      "",
+      ""
+    ],
+    "snacks": [
+      "",
+      "",
+      ""
+    ],
+    "desserts": [
+      "",
+      "",
+      ""
+    ],
+    "drinks": [
+      "",
+      "",
+      ""
+    ],
+    "cake_details": {
+      "flavor": "",
+      "design": "",
+      "bakery_homemade": "",
+      "order_date": "",
+      "pickup_delivery_date": ""
+    }
+  },
+  "activities": {
+    "planned_activities": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "entertainment": {
+      "type": "",
+      "contact": "",
+      "cost": 0.0,
+      "time_scheduled": ""
+    }
+  },
+  "decorations": {
+    "color_scheme": "",
+    "key_elements": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "shopping_list": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "party_favors": {
+    "items": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "packaging": "",
+    "cost_per_favor": 0.0
+  },
+  "timeline": {
+    "3_4_weeks_before": [
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      }
+    ],
+    "1_2_weeks_before": [
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      }
+    ],
+    "few_days_before": [
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      }
+    ],
+    "day_before": [
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      }
+    ],
+    "day_of_party": [
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      },
+      {
+        "task": "",
+        "person_responsible": "",
+        "completed": false
+      }
+    ]
+  },
+  "special_notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "post_party_checklist": {
+    "clean_up_venue": false,
+    "return_rentals": false,
+    "send_thank_you_notes": false,
+    "share_photos": false,
+    "note_what_worked": false
+  }
+}

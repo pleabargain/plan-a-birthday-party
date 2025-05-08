@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "name": "Emma Johnson",
+    "age": "8",
+    "interests": "Unicorns, painting, swimming, dinosaurs",
+    "favorite_colors": "Purple, pink, teal",
+    "favorite_themes": "Unicorn, princess, space"
+  },
+  "party_details": {
+    "date": "2025-06-15",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "venue": "Backyard Garden & Living Room",
+    "theme": "Magical Unicorn Adventure",
+    "guests_expected": 12
+  },
+  "guest_list": [
+    {"name": "Sophia Lee", "contact": "555-1234", "rsvp_status": "Confirmed", "notes": "Allergic to nuts"},
+    {"name": "Jackson Smith", "contact": "555-2345", "rsvp_status": "Pending", "notes": ""},
+    {"name": "Olivia Garcia", "contact": "555-3456", "rsvp_status": "Confirmed", "notes": "Vegetarian"},
+    {"name": "Noah Williams", "contact": "555-4567", "rsvp_status": "Declined", "notes": "Out of town"},
+    {"name": "Ava Brown", "contact": "555-5678", "rsvp_status": "Confirmed", "notes": ""}
+  ],
+  "budget": {
+    "categories": [
+      {"name": "Venue", "estimated_cost": 0.0, "actual_cost": 0.0, "notes": "Using home"},
+      {"name": "Food", "estimated_cost": 150.0, "actual_cost": 165.75, "notes": "Sandwiches, fruit, snacks"},
+      {"name": "Cake", "estimated_cost": 75.0, "actual_cost": 85.0, "notes": "Unicorn design from Sweet Bakery"},
+      {"name": "Drinks", "estimated_cost": 35.0, "actual_cost": 32.50, "notes": "Juice boxes, water, punch"},
+      {"name": "Decorations", "estimated_cost": 120.0, "actual_cost": 137.25, "notes": "Unicorn theme decorations"},
+      {"name": "Entertainment", "estimated_cost": 200.0, "actual_cost": 225.0, "notes": "Face painter for 2 hours"},
+      {"name": "Party Favors", "estimated_cost": 60.0, "actual_cost": 72.50, "notes": "Unicorn goodie bags"},
+      {"name": "Invitations", "estimated_cost": 25.0, "actual_cost": 22.95, "notes": "Digital invites with printing for 5 guests"},
+      {"name": "Other", "estimated_cost": 40.0, "actual_cost": 35.0, "notes": "Prizes for games"}
+    ],
+    "total_estimated": 705.0,
+    "total_actual": 775.95
+  },
+  "menu_plan": {
+    "main_dishes": [
+      "Mini sandwiches (turkey, ham, and veggie)",
+      "Pizza bites",
+      "Unicorn-shaped pasta salad"
+    ],
+    "side_dishes": [
+      "Rainbow fruit skewers",
+      "Veggie platter with dip",
+      "Cheese and crackers"
+    ],
+    "snacks": [
+      "Unicorn popcorn",
+      "Pretzel sticks",
+      "Rainbow goldfish crackers"
+    ],
+    "desserts": [
+      "Unicorn cupcakes",
+      "Rainbow cookies",
+      "Chocolate-dipped strawberries"
+    ],
+    "drinks": [
+      "Magical punch (sprite and sherbet)",
+      "Juice boxes",
+      "Water bottles with custom unicorn labels"
+    ],
+    "cake_details": {
+      "flavor": "Funfetti with vanilla buttercream",
+      "design": "Two-tier unicorn theme with rainbow colors",
+      "bakery_homemade": "Sweet Dreams Bakery",
+      "order_date": "2025-06-01",
+      "pickup_delivery_date": "2025-06-15 (morning)"
+    }
+  },
+  "activities": {
+    "planned_activities": [
+      "Unicorn horn ring toss",
+      "Pin the horn on the unicorn",
+      "Rainbow scavenger hunt",
+      "Unicorn slime making station",
+      "Face painting"
+    ],
+    "entertainment": {
+      "type": "Professional face painter",
+      "contact": "Magical Faces - 555-8765",
+      "cost": 225.0,
+      "time_scheduled": "14:30 - 16:30"
+    }
+  },
+  "decorations": {
+    "color_scheme": "Purple, pink, teal, and gold",
+    "key_elements": [
+      "Unicorn backdrop for photos",
+      "Rainbow balloon arch",
+      "Unicorn table centerpieces",
+      "Sparkly table runners and unicorn confetti"
+    ],
+    "shopping_list": [
+      "Unicorn-themed plates, cups, napkins",
+      "Balloon arch kit",
+      "Unicorn backdrop",
+      "Unicorn table decorations",
+      "Rainbow streamers and banners"
+    ]
+  },
+  "party_favors": {
+    "items": [
+      "Mini unicorn plush toy",
+      "Unicorn stickers",
+      "Rainbow slime",
+      "Unicorn-shaped cookies"
+    ],
+    "packaging": "Sparkly unicorn gift bags with personalized thank you tags",
+    "cost_per_favor": 6.0
+  },
+  "timeline": {
+    "3_4_weeks_before": [
+      {"task": "Finalize guest list", "person_responsible": "Mom", "completed": true},
+      {"task": "Send invitations", "person_responsible": "Mom", "completed": true},
+      {"task": "Book face painter", "person_responsible": "Dad", "completed": true}
+    ],
+    "1_2_weeks_before": [
+      {"task": "Order cake", "person_responsible": "Mom", "completed": true},
+      {"task": "Purchase decorations", "person_responsible": "Mom & Dad", "completed": false},
+      {"task": "Plan games and activities", "person_responsible": "Mom", "completed": true}
+    ],
+    "few_days_before": [
+      {"task": "Prepare party favor bags", "person_responsible": "Mom & Emma", "completed": false},
+      {"task": "Shop for food and drinks", "person_responsible": "Dad", "completed": false},
+      {"task": "Confirm RSVPs", "person_responsible": "Mom", "completed": false}
+    ],
+    "day_before": [
+      {"task": "Set up decorations", "person_responsible": "Whole family", "completed": false},
+      {"task": "Prepare food that can be made ahead", "person_responsible": "Mom", "completed": false},
+      {"task": "Charge camera and set up photo area", "person_responsible": "Dad", "completed": false}
+    ],
+    "day_of_party": [
+      {"task": "Pick up cake", "person_responsible": "Dad", "completed": false},
+      {"task": "Set up food and drinks", "person_responsible": "Mom", "completed": false},
+      {"task": "Welcome guests and coordinate activities", "person_responsible": "Mom & Dad", "completed": false}
+    ]
+  },
+  "special_notes": [
+    "Emma wants to help decorate her own cake topper - set aside time for this activity",
+    "Grandparents will be video calling from overseas during cake cutting - schedule for 3:30 PM",
+    "Have a backup indoor plan in case of rain",
+    "Take lots of photos for the memory book"
+  ],
+  "post_party_checklist": {
+    "clean_up_venue": false,
+    "return_rentals": false,
+    "send_thank_you_notes": false,
+    "share_photos": false,
+    "note_what_worked": false
+  }
+}
